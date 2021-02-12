@@ -2,10 +2,10 @@
   "main": {
     "name":"Jared Lim",
     "occupation":"FullStack Web Developer",
-    "description":"I am a obsessed with user experience and love to create clean, intuitive, and fun-to-use websites.",
+    "description":"I am obsessed with user experience and love to create clean, intuitive, and fun-to-use websites",
     "image":"profilepic.jpg",
     "bio":"I am outgoing, dedicated, and open-minded. I love to leverage technology to bring personal experiences to thousands of people at the same time. I am happy knowing that users liked the 'feel' of an app and take pride in helping them solve their problems in an intuitive and modern way. ",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Let's chat. Shoot me an email.",
     "email": "jaredlim1@gmail.com",
     "phone": "801-512-6578",
     "address":{
@@ -18,39 +18,19 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jaredcplim/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Valborg1",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"calendly",
+        "url":"https://calendly.com/jaredlim1/30min",
+        "className":"fa fa-calendar"
       }
     ]
   },
@@ -58,30 +38,36 @@
     "skillmessage":"I'm skilled with a variety of languages, applications, and tools",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Utah",
+        "degree":"FullStack Web Developer Bootcamp",
+        "graduated":"March 2021",
+        "description":"Learned how to build dynamic end-to-end applications."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Brigham Young University",
+        "degree":"Lingustics",
+        "graduated":"Dec 2017",
+        "description":"Worked with phonetic and phoneme information to create and manage corpus databases."
+      },
+      {
+        "school":"Ensign College",
+        "degree":"Business Management",
+        "graduated":"Dec 2015",
+        "description":"Operations, accounting, finance, and general management."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Rhea Women's Health",
+        "title":"Founder",
+        "years":"Jan 2020 - Jan 2021",
+        "description":"Work with local doulas to created an automated postpartum education system."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"BambooHR",
+        "title":"Customer Education Specialist",
+        "years":"Jan 2018 - March 2020",
+        "description":"Automated internal and customer facing education, training, and operations."
       }
     ],
     "skills":[
@@ -118,46 +104,58 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Seating Booker",
+        "category":"Book a seat for a local show",
+        "image":"seat-booker.jpg",
+        "url":"https://seat-booker.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"My Reading List",
+        "category":"Compile your own reading list from an API",
+        "image":"reading-list.png",
+        "url":"https://valborg1.github.io/Book-Finder/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Employee Directory",
+        "category":"Search and sort an employee list in React",
+        "image":"employee-directory.png",
+        "url":"https://valborg1.github.io/19-employee-directory/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Resume Portfolio",
+        "category":"A React based portfolio and resume website",
+        "image":"portfolio.png",
+        "url":"http://www.google.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Password Generator",
+        "category":"Randomly create a secure password",
+        "image":"password-generator.png",
+        "url":"https://valborg1.github.io/Password-Generator/"
+      },
+      {
+        "title":"Offline Budget Tracker",
+        "category":"Enter expenses offline, update when back online",
+        "image":"budget-tracker.png",
+        "url":"https://github.com/Valborg1/18-offline-budget-tracker"
+      },
+      {
+        "title":"Fitness Tracker",
+        "category":"Track workouts, view data",
+        "image":"workout-tracker.png",
+        "url":"https://fitness-tracker-jl.herokuapp.com/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Would definitely recommend working with Jared! He was great to work with and delivered an amazing update to our product's documentation! His thoughtful insights were appreciated and he met all deadlines and communicated clearly.",
+        "user":"David Trupiano"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Jared can take any system and break it down into its smallest components only to build it back better.",
+        "user":"Curtis Cannon"
       }
     ]
   }
