@@ -1,18 +1,18 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Jared Lim",
+    "occupation":"FullStack Web Developer",
+    "description":"I am a obsessed with user experience and love to create clean, intuitive, and fun-to-use websites.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am outgoing, dedicated, and open-minded. I love to leverage technology to bring personal experiences to thousands of people at the same time. I am happy knowing that users liked the 'feel' of an app and take pride in helping them solve their problems in an intuitive and modern way. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "jaredlim1@gmail.com",
+    "phone": "801-512-6578",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"2854 Minuet Ave",
+      "city":"West Valley",
+      "state":"Utah",
+      "zip": "84119"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -55,7 +55,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I'm skilled with a variety of languages, applications, and tools",
     "education":[
       {
         "school":"University?",
@@ -86,32 +86,32 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"JavaScript",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"HTML5",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"65%"
       },
       {
         "name":"MongoDB",
         "level":"80%"
+      },
+      {
+        "name":"jQuery",
+        "level":"85%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
       }
     ]
   },
