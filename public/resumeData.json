@@ -15,7 +15,7 @@
       "zip": "84119"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"./assets/jared-lim-resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -61,7 +61,7 @@
         "company":"Rhea Women's Health",
         "title":"Founder",
         "years":"Jan 2020 - Jan 2021",
-        "description":"Work with local doulas to created an automated postpartum education system."
+        "description":"Work with local doulas to created an automated postpartum education system. As the founder, I am responsible for setting vision, implementing short-term and long-term plans, and meeting operational and performance standards. Leading a team of healthcare workers and creating female educational classes had "
       },
       {
         "company":"BambooHR",
