@@ -41,13 +41,13 @@
         "school":"University of Utah",
         "degree":"FullStack Web Developer Bootcamp",
         "graduated":"March 2021",
-        "description":"Learned how to build dynamic end-to-end applications."
+        "description":"Learned how to build dynamic end-to-end applications. Proficient with JavaScript, HTML, CSS, Bootstrap, jQuery, Express.js, React.js, Node.js, MongoDB, mySQL, Command Line, Git."
       },
       {
         "school":"Brigham Young University",
         "degree":"Lingustics",
         "graduated":"Dec 2017",
-        "description":"Worked with phonetic and phoneme information to create and manage corpus databases."
+        "description":"Worked with phonetic and phoneme information to create and manage corpus databases containing over 1 million words."
       },
       {
         "school":"Ensign College",
@@ -61,13 +61,13 @@
         "company":"Rhea Women's Health",
         "title":"Founder",
         "years":"Jan 2020 - Jan 2021",
-        "description":"Work with local doulas to created an automated postpartum education system. As the founder, I am responsible for setting vision, implementing short-term and long-term plans, and meeting operational and performance standards. Leading a team of healthcare workers and creating female educational classes had "
+        "description":"Work with local doulas to created an personal postpartum education experience for new moms. As the founder, I am responsible for setting vision, implementing short-term and long-term plans, and meeting operational and performance standards. Leading a team of healthcare workers and creating female educational classes included meeting the needs of employees, customers, communities, and the law. "
       },
       {
         "company":"BambooHR",
         "title":"Customer Education Specialist",
         "years":"Jan 2018 - March 2020",
-        "description":"Automated internal and customer facing education, training, and operations."
+        "description":"Automated internal and customer facing education, training, and operations. I was responsible for implementing an internal payroll onboarding process after we acquired a payroll company, increading implementations by 350%. Additionally, I took the lead in cross-departmental projects with operations, implementation, product, customer marketing, payroll, biling, and engineering."
       }
     ],
     "skills":[

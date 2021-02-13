@@ -933,7 +933,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #5c5c5c;
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -960,7 +960,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #d5d8d8;
 }
 footer .copyright  li:first-child:before {
     display: none;
