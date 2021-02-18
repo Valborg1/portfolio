@@ -7,7 +7,12 @@
 /coverage
 
 # production
-/build
+/build/css
+/build/images
+/build/js
+/build/*.json
+/build/*.ico
+
 
 # misc
 .DS_Store
